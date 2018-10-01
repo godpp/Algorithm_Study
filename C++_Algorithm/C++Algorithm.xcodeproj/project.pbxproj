@@ -12,6 +12,8 @@
 		4C8A20A0215FB899004396F2 /* 소수 찾기.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C8A209F215FB899004396F2 /* 소수 찾기.cpp */; };
 		4CEB62A921612E8B0045D743 /* 가운데 글자 가져오기.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CEB62A821612E8B0045D743 /* 가운데 글자 가져오기.cpp */; };
 		4CEB62AB21613D570045D743 /* 같은 숫자는 싫어.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CEB62AA21613D570045D743 /* 같은 숫자는 싫어.cpp */; };
+		4CEB62AE21628AD20045D743 /* 두 정수 사이의 합.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CEB62AD21628AD20045D743 /* 두 정수 사이의 합.cpp */; };
+		4CEB62B021628E550045D743 /* 나누어 떨어지는 숫자 배열.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CEB62AF21628E550045D743 /* 나누어 떨어지는 숫자 배열.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +35,8 @@
 		4C8A209F215FB899004396F2 /* 소수 찾기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "소수 찾기.cpp"; sourceTree = "<group>"; };
 		4CEB62A821612E8B0045D743 /* 가운데 글자 가져오기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "가운데 글자 가져오기.cpp"; sourceTree = "<group>"; };
 		4CEB62AA21613D570045D743 /* 같은 숫자는 싫어.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "같은 숫자는 싫어.cpp"; sourceTree = "<group>"; };
+		4CEB62AD21628AD20045D743 /* 두 정수 사이의 합.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "두 정수 사이의 합.cpp"; sourceTree = "<group>"; };
+		4CEB62AF21628E550045D743 /* 나누어 떨어지는 숫자 배열.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "나누어 떨어지는 숫자 배열.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +82,8 @@
 				4C8A209F215FB899004396F2 /* 소수 찾기.cpp */,
 				4CEB62A821612E8B0045D743 /* 가운데 글자 가져오기.cpp */,
 				4CEB62AA21613D570045D743 /* 같은 숫자는 싫어.cpp */,
+				4CEB62AD21628AD20045D743 /* 두 정수 사이의 합.cpp */,
+				4CEB62AF21628E550045D743 /* 나누어 떨어지는 숫자 배열.cpp */,
 			);
 			name = "1단계";
 			path = "1단계";
@@ -141,6 +147,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				4C8A209E215FB647004396F2 /* 수박수박수박수박수박수?.cpp in Sources */,
+				4CEB62AE21628AD20045D743 /* 두 정수 사이의 합.cpp in Sources */,
+				4CEB62B021628E550045D743 /* 나누어 떨어지는 숫자 배열.cpp in Sources */,
 				4CEB62A921612E8B0045D743 /* 가운데 글자 가져오기.cpp in Sources */,
 				4C8A2099215D0DBA004396F2 /* 소수의합.cpp in Sources */,
 				4C8A20A0215FB899004396F2 /* 소수 찾기.cpp in Sources */,
